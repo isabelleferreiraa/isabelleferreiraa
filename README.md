@@ -27,12 +27,11 @@
 ## PROJETOS EM DESTAQUE 
 
 🚀 **Pipeline ETL com Python**
-- Pipeline ETL completo utilizando Python, Pandas, PostgreSQL, Docker, Pytest e GitHub Actions.
-🔗 https://github.com/isabelleferreiraa/pipeline-etl-vendas
+- Pipeline ETL completo utilizando Python, Pandas, PostgreSQL, Docker, Pytest e GitHub Actions. https://github.com/isabelleferreiraa/pipeline-etl-vendas
 
 ### 🌐 Projeto 
-- Desenvolvimento de interfaces utilizando HTML, CSS e JavaScript.
-🔗 https://github.com/OrbitSafe/ORBITSAFE-Global-Solution
+- Desenvolvimento de interfaces utilizando HTML, CSS e JavaScript. https://github.com/OrbitSafe/ORBITSAFE-Global-Solution
+
 ---
 
 ## 📚 Atualmente estudando
