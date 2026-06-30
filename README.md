@@ -1,52 +1,45 @@
-# Olá, me chamo Isabelle Ferreira 
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
-
-💻 Gosto de transformar aprendizado em projetos práticos, explorando diferentes áreas do desenvolvimento de software, sempre buscando evoluir minhas habilidades e aplicar boas práticas de programação.
-
-## 🚀 Tecnologias
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-</p>
+<div align="center">
+  <!-- BANNER PERSONALIZADO -->
+  <!-- Dica: Você pode criar uma imagem com essa proporção no Canva, colocar no seu repositório e atualizar o link aqui -->
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/seu-banner.png" alt="Banner Isabelle Ferreira" width="100%">
+</div>
 
 ---
 
-## PROJETOS EM DESTAQUE 
+## Hey, I'm Isabelle 👋
 
-🚀 **Pipeline ETL com Python**
-- Pipeline ETL completo utilizando Python, Pandas, PostgreSQL, Docker, Pytest e GitHub Actions. https://github.com/isabelleferreiraa/pipeline-etl-vendas
+Sou estudante de Engenharia de Software focada em desenvolvimento Front-End e na construção de interfaces modernas, limpas e responsivas. Atualmente, venho trabalhando com engenharia de front-end em projetos colaborativos e aprimorando minhas habilidades práticas.
 
-### 🌐 Projeto 
-- Desenvolvimento de interfaces utilizando HTML, CSS e JavaScript. https://github.com/OrbitSafe/ORBITSAFE-Global-Solution
+Gosto de entender não apenas como construir um sistema, mas a lógica e o propósito por trás de cada interface e funcionalidade desenvolvida.
 
 ---
 
-## 📚 Atualmente estudando
+## Stack
 
-- Python
-- SQL
-- Docker
-- Desenvolvimento Back-end
-- Desenvolvimento Front-end 
-- Engenharia de Dados
-- Arquitetura de Software
+| Web | Linguagens | Database | Tools |
+| :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" vspace="10" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" vspace="10" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" vspace="10" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" vspace="10" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" vspace="10" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" vspace="10" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" vspace="10" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" vspace="10" width="40" height="40"/> |
 
 ---
 
-## 📫 Contato
+## GitHub Stats
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/isabelle-ferreira-8844593ab/
-- 📧 **E-mail:** isabelleferreiraa999@gmail.com
+<div align="center">
+  <!-- Substitua SEU_USUARIO_AQUI pelo seu nome de usuário do GitHub para ativar as estatísticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Estatísticas do GitHub" height="180" />
+</div>
+
+---
+
+<!-- BOTÕES DE REDES SOCIAIS NO RODAPÉ -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/isabelle-ferreira-8844593ab" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:isabelleferreiraa999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/isa.ferreirazzx/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
