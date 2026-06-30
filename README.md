@@ -1,18 +1,8 @@
-# Oiê, me chamo Isabelle Ferreira 
+# Olá, me chamo Isabelle Ferreira 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
 
 💻 Gosto de transformar aprendizado em projetos práticos, explorando diferentes áreas do desenvolvimento de software, sempre buscando evoluir minhas habilidades e aplicar boas práticas de programação.
-
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabelleferreiraa&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleferreiraa&layout=compact&theme=tokyonight)
-
----
 
 ## 🚀 Tecnologias
 
@@ -59,5 +49,5 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-ferreira-8844593ab/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:isabelleferreiraa999@gmail.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/isabelle-ferreira-8844593ab/
+- 📧 **E-mail:** isabelleferreiraa999@gmail.com
