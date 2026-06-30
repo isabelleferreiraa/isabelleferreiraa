@@ -1,16 +1,63 @@
-## Hi there 👋
+# Oiê, me chamo Isabelle Ferreira 
 
-<!--
-**isabelleferreiraa/isabelleferreiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
 
-Here are some ideas to get you started:
+💻 Gosto de transformar aprendizado em projetos práticos, explorando diferentes áreas do desenvolvimento de software, sempre buscando evoluir minhas habilidades e aplicar boas práticas de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabelleferreiraa&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleferreiraa&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+</p>
+
+---
+
+## PROJETOS EM DESTAQUE 
+
+🚀 **Pipeline ETL com Python**
+- Pipeline ETL completo utilizando Python, Pandas, PostgreSQL, Docker, Pytest e GitHub Actions.
+🔗 https://github.com/isabelleferreiraa/pipeline-etl-vendas
+
+### 🌐 Projeto 
+- Desenvolvimento de interfaces utilizando HTML, CSS e JavaScript.
+🔗 https://github.com/OrbitSafe/ORBITSAFE-Global-Solution
+---
+
+## 📚 Atualmente estudando
+
+- Python
+- SQL
+- Docker
+- Desenvolvimento Back-end
+- Desenvolvimento Front-end 
+- Engenharia de Dados
+- Arquitetura de Software
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-ferreira-8844593ab/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:isabelleferreiraa999@gmail.com)
