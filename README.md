@@ -12,7 +12,11 @@ Atualmente desenvolvo meu portfólio com projetos voltados para **Desenvolviment
 
 Gosto de entender como as soluções funcionam por trás dos bastidores, desde a modelagem de dados e construção de APIs até a automação de processos e organização de aplicações. Estou sempre buscando evoluir minhas habilidades e aplicar boas práticas de programação em cada novo projeto.
 
-Também estudo **na InFlux English School**, possuo nível **intermediário** e continuo aprimorando minhas habilidades para acompanhar documentações técnicas e colaborar em ambientes cada vez mais globais.
+Também possuo:
+-**inglês** (nível intermediário) 
+-**espanhol** (nível intermediário).
+
+Continuo aprimorando minhas habilidades para acompanhar documentações técnicas e colaborar em ambientes cada vez mais globais.
 
 </div>
 
@@ -34,7 +38,7 @@ Pipeline ETL desenvolvido utilizando **Python**, **Pandas**, **PostgreSQL**, **D
 
 Aplicação Web desenvolvida com **HTML**, **CSS** e **JavaScript**.
 
-🔗 https://github.com/OrbitSafe/ORBITSAFE-Global-Solution
+🔗 https://github.com/ORBITSAFE-GlobalSolution/ORBITSAFE
 
 </div>
 
