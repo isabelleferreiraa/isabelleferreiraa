@@ -60,7 +60,7 @@ Aplicação Web desenvolvida com **HTML**, **CSS** e **JavaScript**.
 
 # Atualmente estudando
 
-Python • SQL • Docker • Desenvolvimento Back-end • Engenharia de Dados
+Python • SQL • Docker • Desenvolvimento Back-end • Desenvolvimento Web • Engenharia de Dados 
 
 </div>
 
