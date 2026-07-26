@@ -3,20 +3,27 @@
 </div>
 
 <div align="center">
-  
-# Olá, eu sou a Isabelle 
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP** e acredito que a melhor forma de aprender é construindo projetos.
+<h3>Backend • Desenvolvimento Web • Engenharia de Dados • Inteligência Artificial</h3>
 
-Atualmente desenvolvo meu portfólio com projetos voltados para **Desenvolvimento Back-end**, **Engenharia de Dados** e **Desenvolvimento Front-end**, utilizando tecnologias como **Python, SQL, PostgreSQL, Docker, Pandas, HTML, CSS e JavaScript**.
+# Olá, eu sou a Isabelle
 
-Gosto de entender como as soluções funcionam por trás dos bastidores, desde a modelagem de dados e construção de APIs até a automação de processos e organização de aplicações. Estou sempre buscando evoluir minhas habilidades e aplicar boas práticas de programação em cada novo projeto.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**.
+
+Sou apaixonada por tecnologia e pela construção de soluções utilizando **Desenvolvimento Back-end**, **Desenvolvimento Web**, **APIs REST**, **Engenharia de Dados** e **Inteligência Artificial**.
+
+Atualmente desenvolvo projetos voltados para APIs REST, Engenharia de Dados e Inteligência Artificial, utilizando Python, Java, FastAPI, PostgreSQL, Docker, JavaScript e TypeScript.
+
+Gosto de entender como as soluções funcionam por trás dos bastidores, desde a modelagem de bancos de dados e desenvolvimento de APIs até a automação de processos e análise de dados.
 
 Também possuo:
--**inglês** (nível intermediário) 
--**espanhol** (nível intermediário).
 
-Continuo aprimorando minhas habilidades para acompanhar documentações técnicas e colaborar em ambientes cada vez mais globais.
+**Inglês:** Intermediário <br>
+**Espanhol:** Básico
+
+<br>
+
+Estou sempre buscando aprender novas tecnologias e transformar esse conhecimento em projetos práticos.
 
 </div>
 
@@ -26,19 +33,19 @@ Continuo aprimorando minhas habilidades para acompanhar documentações técnica
 
 # Projetos
 
-### 🚀 Pipeline ETL com Python
+### NexusLens — IA para Análise de Grafos
 
-Pipeline ETL desenvolvido utilizando **Python**, **Pandas**, **PostgreSQL**, **Docker**, **Pytest** e **GitHub Actions**.
+Backend desenvolvido com **Python**, **FastAPI** e **PostgreSQL** para análise de relacionamentos utilizando teoria dos grafos e Inteligência Artificial, gerando métricas e insights automaticamente.
 
-🔗 https://github.com/isabelleferreiraa/pipeline-etl-vendas
+🔗 https://github.com/isabelleferreiraa/NexusLens
 
 <br>
 
-### 🌎 OrbitSafe
+### Pipeline ETL para Integração de Dados
 
-Aplicação Web desenvolvida com **HTML**, **CSS** e **JavaScript**.
+Pipeline ETL desenvolvido utilizando **Python**, **PostgreSQL**, **Docker**, **Pandas**, **Pytest** e **GitHub Actions** para extração, transformação e carregamento de dados provenientes de APIs REST.
 
-🔗 https://github.com/ORBITSAFE-GlobalSolution/ORBITSAFE
+🔗 https://github.com/isabelleferreiraa/pipeline-etl-vendas
 
 </div>
 
@@ -48,9 +55,9 @@ Aplicação Web desenvolvida com **HTML**, **CSS** e **JavaScript**.
 
 # Stack
 
-| 🌐 Front-end | ⚙️ Back-end | 🗄️ Database | 🛠️ Tools |
-|:------------:|:-----------:|:-----------:|:---------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/> <img src="https://cdn.simpleicons.org/github/white" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/> |
+| Front-end | Back-end | Database | Tools |
+|:---------:|:--------:|:--------:|:-----:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="42"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/> <img src="https://cdn.simpleicons.org/github/white" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="42"/> |
 
 </div>
 
@@ -60,7 +67,7 @@ Aplicação Web desenvolvida com **HTML**, **CSS** e **JavaScript**.
 
 # Atualmente estudando
 
-Python • SQL • Docker • Desenvolvimento Back-end • Desenvolvimento Web • Engenharia de Dados 
+Spring Boot • Desenvolvimento Web • React • TypeScript • Power BI • AWS Cloud
 
 </div>
 
@@ -69,6 +76,8 @@ Python • SQL • Docker • Desenvolvimento Back-end • Desenvolvimento Web �
 <div align="center">
 
 # GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=isabelleferreiraa&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=isabelleferreiraa&theme=tokyonight&hide_border=true"/>
 
@@ -83,7 +92,9 @@ Python • SQL • Docker • Desenvolvimento Back-end • Desenvolvimento Web �
 <a href="https://www.linkedin.com/in/isabelle-ferreira-8844593ab/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="mailto:isabelleferreiraa999@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
