@@ -1,102 +1,244 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:5b21b6,100:7c3aed&height=220&section=header&text=Isabelle%20Ferreira%20Neri%20Feitoza&fontSize=30&fontColor=ffffff&font=montserrat&animation=fadeIn&fontAlignY=40&desc=An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20%E2%80%94%20FIAP&descAlignY=58&descSize=16" width="100%"/>
-</div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:4c1d95,100:7c3aed&height=220&section=header&text=ISABELLE%20FERREIRA&fontSize=34&fontColor=ffffff&font=montserrat&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20IN%20TRAINING&descAlignY=58&descSize=16" width="100%"/>
 
-<h3>Backend • Desenvolvimento Web • Engenharia de Dados • Inteligência Artificial</h3>
-
-# Olá, eu sou a Isabelle
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**.
-
-Sou apaixonada por tecnologia e pela construção de soluções utilizando **Desenvolvimento Back-end**, **Desenvolvimento Web**, **APIs REST**, **Engenharia de Dados** e **Inteligência Artificial**.
-
-Atualmente desenvolvo projetos voltados para APIs REST, Engenharia de Dados e Inteligência Artificial, utilizando Python, Java, FastAPI, PostgreSQL, Docker, JavaScript e TypeScript.
-
-Gosto de entender como as soluções funcionam por trás dos bastidores, desde a modelagem de bancos de dados e desenvolvimento de APIs até a automação de processos e análise de dados.
-
-Também possuo:
-
-**Inglês:** Intermediário <br>
-**Espanhol:** Básico
-
-<br>
-
-Estou sempre buscando aprender novas tecnologias e transformar esse conhecimento em projetos práticos.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Training;Software+Development;Building+projects+and+learning+new+technologies;Python+%7C+Java+%7C+TypeScript+%7C+React" />
 
 </div>
 
 <br>
 
 <div align="center">
+
+**Análise e Desenvolvimento de Sistemas — FIAP**  
+**Full Stack Developer em formação**
+
+</div>
+
+---
+
+# Sobre Mim
+
+Tenho experiência prática em projetos acadêmicos e pessoais envolvendo **desenvolvimento de software, APIs REST, bancos de dados, desenvolvimento web e Inteligência Artificial**.
+
+Gosto de aprender novas tecnologias e transformar conhecimentos em projetos práticos, buscando entender tanto o desenvolvimento do backend quanto a construção de aplicações completas.
+
+Atualmente, estou aprofundando meus conhecimentos em **Java, Spring Boot, TypeScript, React, Python, bancos de dados, Power BI e AWS Cloud**.
+
+---
 
 # Projetos
 
-### NexusLens — IA para Análise de Grafos
+<table>
+<tr>
 
-Backend desenvolvido com **Python**, **FastAPI** e **PostgreSQL** para análise de relacionamentos utilizando teoria dos grafos e Inteligência Artificial, gerando métricas e insights automaticamente.
+<td width="50%" valign="top">
 
-🔗 https://github.com/isabelleferreiraa/NexusLens
-
-<br>
-
-### Pipeline ETL para Integração de Dados
-
-Pipeline ETL desenvolvido utilizando **Python**, **PostgreSQL**, **Docker**, **Pandas**, **Pytest** e **GitHub Actions** para extração, transformação e carregamento de dados provenientes de APIs REST.
-
-🔗 https://github.com/isabelleferreiraa/pipeline-etl-vendas
-
-</div>
-
-<br>
+<h3 align="center">NexusLens</h3>
 
 <div align="center">
 
-# Stack
+**IA para Análise de Grafos**
 
-| Front-end | Back-end | Database | Tools |
-|:---------:|:--------:|:--------:|:-----:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="42"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/> <img src="https://cdn.simpleicons.org/github/white" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="42"/> |
+Aplicação full stack desenvolvida para análise de relacionamentos utilizando teoria dos grafos e Inteligência Artificial.
 
-</div>
+**Tecnologias**
+
+Python • FastAPI • PostgreSQL  
+React • TypeScript • Docker
 
 <br>
 
+<a href="https://github.com/isabelleferreiraa/NexusLens">
+<img src="https://img.shields.io/badge/VER%20PROJETO-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Pipeline ETL</h3>
+
 <div align="center">
+
+**Integração e Processamento de Dados**
+
+Pipeline desenvolvido para extração, transformação e carregamento de dados provenientes de uma API REST.
+
+**Tecnologias**
+
+Python • Pandas • PostgreSQL  
+Docker • Pytest • GitHub Actions
+
+<br>
+
+<a href="https://github.com/isabelleferreiraa/pipeline-etl-vendas">
+<img src="https://img.shields.io/badge/VER%20PROJETO-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" colspan="2" valign="top">
+
+<h3 align="center">OrbitSafe</h3>
+
+<div align="center">
+
+**Solução de Conectividade via Satélite**
+
+Projeto multidisciplinar desenvolvido para uma solução de conectividade em regiões remotas e situações de emergência.
+
+**Tecnologias e áreas**
+
+Java • Python • Banco de Dados  
+Inteligência Artificial • Desenvolvimento Web
+
+<br>
+
+<a href="https://github.com/ORBITSAFE-GlobalSolution/ORBITSAFE">
+<img src="https://img.shields.io/badge/VER%20PROJETO-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Tecnologias
+
+<div align="center">
+
+### Linguagens
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cs" />
+
+### Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,spring,html,css" />
+
+### Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/>
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,githubactions" />
+
+</div>
+
+---
+
+# Conhecimentos
+
+<div align="center">
+
+| Área | Tecnologias |
+|:---:|:---|
+| Linguagens | Python • Java • JavaScript • TypeScript • C# • SQL |
+| Backend | FastAPI • Spring Boot • APIs REST • SQLAlchemy |
+| Frontend | React • TypeScript • JavaScript • HTML • CSS |
+| Banco de Dados | PostgreSQL • MongoDB • MySQL • Oracle |
+| DevOps | Docker • Git • GitHub Actions • CI/CD |
+| Testes | Pytest |
+| Cloud | AWS |
+
+</div>
+
+---
 
 # Atualmente estudando
 
-Spring Boot • Desenvolvimento Web • React • TypeScript • Power BI • AWS Cloud
+<div align="center">
+
+`Java` &nbsp; `Spring Boot` &nbsp; `TypeScript` &nbsp; `React` &nbsp; `Power BI` &nbsp; `AWS`
 
 </div>
 
-<br>
+---
+
+# GitHub
 
 <div align="center">
 
-# GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=isabelleferreiraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=isabelleferreiraa&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleferreiraa&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=isabelleferreiraa&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isabelleferreiraa&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
+---
+
+# Formação
 
 <div align="center">
+
+**FIAP**  
+Análise e Desenvolvimento de Sistemas
+
+Cursando | Previsão de conclusão: Dezembro/2027
+
+**InFlux English School**  
+Curso de Inglês — Cursando
+
+</div>
+
+---
+
+# Certificações e Cursos
+
+<div align="center">
+
+| Instituição | Curso |
+|:---:|:---|
+| **FIAP** | Nano Course: Engenharia de Software |
+| **FIAP** | Nano Course: Python |
+| **TOTVS** | Fundamentos JavaScript: Simples e Prático |
+| **FGV** | Introdução à Ciência de Dados |
+| **FIAP** | Nano Course: Front-end |
+
+</div>
+
+---
 
 # Contato
 
-<a href="https://www.linkedin.com/in/isabelle-ferreira-8844593ab/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div align="center">
 
-&nbsp;
+<a href="https://www.linkedin.com/in/isabelle-ferreira-8844593ab/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="mailto:isabelleferreiraa999@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/isabelleferreiraa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:09090b&height=120&section=footer" width="100%"/>
 
 </div>
