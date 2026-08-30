@@ -19,11 +19,11 @@
 
 # Sobre Mim
 
-Tenho experiência prática em projetos acadêmicos e pessoais envolvendo **desenvolvimento de software, APIs REST, bancos de dados, desenvolvimento web e Inteligência Artificial**.
+Tenho experiência prática no desenvolvimento de projetos acadêmicos e pessoais, atuando na construção de aplicações, APIs REST, integração com bancos de dados e desenvolvimento web.
 
-Gosto de aprender novas tecnologias e transformar conhecimentos em projetos práticos, buscando entender tanto o desenvolvimento do backend quanto a construção de aplicações completas.
+Ao longo da minha formação, também venho explorando aplicações de Inteligência Artificial e diferentes tecnologias do ecossistema de desenvolvimento de software.
 
-Atualmente, estou aprofundando meus conhecimentos em **Java, Spring Boot, TypeScript, React, Python, bancos de dados, Power BI e AWS Cloud**.
+Gosto de aprender novas tecnologias, entender como as aplicações funcionam e transformar conhecimentos em projetos práticos e soluções de software.
 
 ---
 
@@ -163,7 +163,8 @@ Inteligência Artificial • Desenvolvimento Web
 
 <div align="center">
 
-`Java` &nbsp; `Spring Boot` &nbsp; `TypeScript` &nbsp; `React` &nbsp; `Power BI` &nbsp; `AWS`
+`Java` &nbsp; `Spring Boot` &nbsp; `TypeScript` &nbsp; `React`  
+`Python` &nbsp; `APIs REST` &nbsp; `Cloud Computing`
 
 </div>
 
