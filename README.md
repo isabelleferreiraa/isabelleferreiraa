@@ -29,90 +29,39 @@ Gosto de aprender novas tecnologias, entender como as aplicações funcionam e t
 
 # Projetos
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">NexusLens</h3>
-
-<div align="center">
+## NexusLens
 
 **IA para Análise de Grafos**
 
 Aplicação full stack desenvolvida para análise de relacionamentos utilizando teoria dos grafos e Inteligência Artificial.
 
-**Tecnologias**
+**Tecnologias:** Python • FastAPI • PostgreSQL • React • TypeScript • Docker
 
-Python • FastAPI • PostgreSQL  
-React • TypeScript • Docker
+<a href="https://github.com/isabelleferreiraa/NexusLens"><img src="https://img.shields.io/badge/Ver%20Projeto-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br>
+---
 
-<a href="https://github.com/isabelleferreiraa/NexusLens">
-<img src="https://img.shields.io/badge/VER%20PROJETO-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">Pipeline ETL</h3>
-
-<div align="center">
+## Pipeline ETL
 
 **Integração e Processamento de Dados**
 
 Pipeline desenvolvido para extração, transformação e carregamento de dados provenientes de uma API REST.
 
-**Tecnologias**
+**Tecnologias:** Python • Pandas • PostgreSQL • Docker • Pytest • GitHub Actions
 
-Python • Pandas • PostgreSQL  
-Docker • Pytest • GitHub Actions
+<a href="https://github.com/isabelleferreiraa/pipeline-etl-vendas"><img src="https://img.shields.io/badge/Ver%20Projeto-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br>
+---
 
-<a href="https://github.com/isabelleferreiraa/pipeline-etl-vendas">
-<img src="https://img.shields.io/badge/VER%20PROJETO-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" colspan="2" valign="top">
-
-<h3 align="center">OrbitSafe</h3>
-
-<div align="center">
+## OrbitSafe
 
 **Solução de Conectividade via Satélite**
 
 Projeto multidisciplinar desenvolvido para uma solução de conectividade em regiões remotas e situações de emergência.
 
-**Tecnologias e áreas**
+**Tecnologias e áreas:** Java • Python • Banco de Dados • Inteligência Artificial • Desenvolvimento Web
 
-Java • Python • Banco de Dados  
-Inteligência Artificial • Desenvolvimento Web
-
-<br>
-
-<a href="https://github.com/ORBITSAFE-GlobalSolution/ORBITSAFE">
-<img src="https://img.shields.io/badge/VER%20PROJETO-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-</table>
+<a href="https://github.com/ORBITSAFE-GlobalSolution/ORBITSAFE"><img src="https://img.shields.io/badge/Ver%20Projeto-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ---
 
@@ -122,7 +71,7 @@ Inteligência Artificial • Desenvolvimento Web
 
 ### Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cs" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
 
 ### Desenvolvimento
 
@@ -147,7 +96,7 @@ Inteligência Artificial • Desenvolvimento Web
 
 | Área | Tecnologias |
 |:---:|:---|
-| Linguagens | Python • Java • JavaScript • TypeScript • C# • SQL |
+| Linguagens | Python • Java • JavaScript • TypeScript • SQL |
 | Backend | FastAPI • Spring Boot • APIs REST • SQLAlchemy |
 | Frontend | React • TypeScript • JavaScript • HTML • CSS |
 | Banco de Dados | PostgreSQL • MongoDB • MySQL • Oracle |
@@ -163,8 +112,16 @@ Inteligência Artificial • Desenvolvimento Web
 
 <div align="center">
 
-`Java` &nbsp; `Spring Boot` &nbsp; `TypeScript` &nbsp; `React`  
-`Python` &nbsp; `APIs REST` &nbsp; `Cloud Computing`
+<img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-7C3AED?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-4C1D95?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/APIs%20REST-4C1D95?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-4C1D95?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 
 </div>
 
@@ -222,17 +179,9 @@ Curso de Inglês — Cursando
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/isabelle-ferreira-8844593ab/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:isabelleferreiraa999@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/isabelleferreiraa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/isabelle-ferreira-8844593ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:isabelleferreiraa999@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/isabelleferreiraa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
