@@ -19,11 +19,13 @@
 
 # Sobre Mim
 
-Tenho experiência prática no desenvolvimento de projetos acadêmicos e pessoais, atuando na construção de aplicações, APIs REST, integração com bancos de dados e desenvolvimento web.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP, com interesse em desenvolvimento de software, tecnologia e criação de soluções práticas.
 
-Ao longo da minha formação, também venho explorando aplicações de Inteligência Artificial e diferentes tecnologias do ecossistema de desenvolvimento de software.
+Tenho experiência em projetos acadêmicos e pessoais envolvendo desenvolvimento web, aplicações Full Stack, APIs REST, integração com bancos de dados, processamento de dados e Inteligência Artificial.
 
-Gosto de aprender novas tecnologias, entender como as aplicações funcionam e transformar conhecimentos em projetos práticos e soluções de software.
+Atualmente, desenvolvo projetos utilizando Python, Java, JavaScript, TypeScript, React, FastAPI, Spring Boot, SQL e bancos de dados, além de ferramentas como Git, GitHub, Docker e GitHub Actions.
+
+Gosto de aprender novas tecnologias, entender como as aplicações funcionam e transformar conhecimentos em projetos práticos.
 
 ---
 
@@ -38,6 +40,18 @@ Aplicação full stack desenvolvida para análise de relacionamentos utilizando 
 **Tecnologias:** Python • FastAPI • PostgreSQL • React • TypeScript • Docker
 
 <a href="https://github.com/isabelleferreiraa/NexusLens"><img src="https://img.shields.io/badge/Ver%20Projeto-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+---
+
+## MoveUP
+
+**Projeto FIAP — Sustentabilidade em Movimento**
+
+Projeto acadêmico desenvolvido em equipe para o Challenge da FIAP, com frontend em React/TypeScript e backend em Java, incluindo operações CRUD e camada DAO para acesso ao banco de dados Oracle. Projeto finalista na banca do Challenge da FIAP.
+
+**Tecnologias:** React • TypeScript • Java • Oracle • CRUD • DAO
+
+<a href="https://github.com/MoveUp-Organization"><img src="https://img.shields.io/badge/Ver%20Projeto-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ---
 
@@ -112,16 +126,10 @@ Projeto multidisciplinar desenvolvido para uma solução de conectividade em reg
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-7C3AED?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-4C1D95?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/APIs%20REST-4C1D95?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-4C1D95?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 
 </div>
 
@@ -166,10 +174,11 @@ Curso de Inglês — Cursando
 | Instituição | Curso |
 |:---:|:---|
 | **FIAP** | Nano Course: Engenharia de Software |
-| **FIAP** | Nano Course: Python |
+| **FIAP** | Nano Course: Python Development |
 | **TOTVS** | Fundamentos JavaScript: Simples e Prático |
 | **FGV** | Introdução à Ciência de Dados |
 | **FIAP** | Nano Course: Front-end |
+| **Alura** | Introdução à Engenharia de Dados |
 
 </div>
 
