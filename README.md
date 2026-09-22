@@ -47,11 +47,32 @@ Aplicação full stack desenvolvida para análise de relacionamentos utilizando 
 
 **Projeto FIAP — Sustentabilidade em Movimento**
 
-Projeto acadêmico desenvolvido em equipe para o Challenge da FIAP, com frontend em React/TypeScript e backend em Java, incluindo operações CRUD e camada DAO para acesso ao banco de dados Oracle. Projeto finalista na banca do Challenge da FIAP.
+Projeto acadêmico interdisciplinar desenvolvido em equipe para o Challenge da FIAP, com a proposta de transformar pontos e benefícios da plataforma SoulUp em créditos de transporte público, incentivando a mobilidade sustentável. *Projeto finalista na banca do Challenge da FIAP.*
 
-**Tecnologias:** React • TypeScript • Java • Oracle • CRUD • DAO
+O MoveUP reúne diferentes entregas de desenvolvimento de software, banco de dados e análise de dados:
 
-<a href="https://github.com/MoveUp-Organization"><img src="https://img.shields.io/badge/Ver%20Projeto-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+- **Frontend:** desenvolvimento da interface da aplicação com React e TypeScript, contemplando funcionalidades de conversão de créditos, missões e acompanhamento do impacto ambiental.
+- **Backend em Java:** implementação da lógica do sistema com operações CRUD, organização em camadas Model, DAO, Connection e Test, além da comunicação com o banco de dados Oracle por meio de JDBC.
+- **Banco de dados:** modelagem e implementação de um banco relacional no Oracle, com 10 tabelas, relacionamentos e restrições de integridade.
+- **Python:** desenvolvimento de um sistema interativo no terminal para simular o gerenciamento de usuários, viagens, pontos, vouchers e impacto ambiental.
+- **Inteligência Artificial e Dados:** tratamento e análise exploratória de dados de mobilidade urbana com Python, preparando uma base para uma futura solução de inteligência artificial voltada à conversão de tarifas em pontos.
+
+### Tecnologias utilizadas
+
+| Área | Tecnologias e ferramentas |
+|---|---|
+| **Frontend** | React • TypeScript • Vite • Tailwind CSS • React Router |
+| **Backend** | Java • JDBC • CRUD • DAO |
+| **Banco de dados** | Oracle Database • SQL • Oracle SQL Developer |
+| **Dados e Python** | Python • Pandas • NumPy • Matplotlib • Seaborn • Google Colab |
+| **Modelagem e prototipação** | UML • Figma • Trello |
+
+
+<p align="left">
+  <a href="https://github.com/orgs/MoveUp-Organization/repositories">
+    <img src="https://img.shields.io/badge/VER_PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
+  </a>
+</p>
 
 ---
 
