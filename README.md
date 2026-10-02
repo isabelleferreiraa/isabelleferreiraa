@@ -92,9 +92,9 @@ Pipeline desenvolvido para extração, transformação e carregamento de dados p
 
 **Solução de Conectividade via Satélite**
 
-Projeto multidisciplinar desenvolvido para uma solução de conectividade em regiões remotas e situações de emergência.
+Projeto multidisciplinar desenvolvido para a Global Solution da FIAP, propondo uma solução tecnológica para prevenção, monitoramento e resposta a situações de emergência e desastres naturais utilizando conectividade via satélites de baixa órbita (LEO).
 
-**Tecnologias e áreas:** Java • Python • Banco de Dados • Inteligência Artificial • Desenvolvimento Web
+**Tecnologias:** Java • Python • SQL • IBM Watson Assistant • Node-RED • HTML • CSS • JavaScript
 
 <a href="https://github.com/ORBITSAFE-GlobalSolution/ORBITSAFE"><img src="https://img.shields.io/badge/Ver%20Projeto-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 
