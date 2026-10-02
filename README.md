@@ -194,11 +194,13 @@ Curso de Inglês — Cursando
 
 | Instituição | Curso |
 |:---:|:---|
+| **FIAP** | Certificado de Qualificação Profissional em Análise de Sistemas e Prototipação Web — Selo Prata |
 | **FIAP** | Nano Course: Engenharia de Software |
 | **FIAP** | Nano Course: Python Development |
+| **FIAP** | Nano Course: Front-end |
 | **TOTVS** | Fundamentos JavaScript: Simples e Prático |
 | **FGV** | Introdução à Ciência de Dados |
-| **FIAP** | Nano Course: Front-end |
+| **Alura** | Power BI Desktop: construindo meu primeiro dashboard |
 | **Alura** | Introdução à Engenharia de Dados |
 
 </div>
