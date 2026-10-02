@@ -21,7 +21,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP, com interesse em desenvolvimento de software, tecnologia e criação de soluções práticas.
 
-Tenho experiência em projetos acadêmicos e pessoais envolvendo desenvolvimento web, aplicações Full Stack, APIs REST, integração com bancos de dados, processamento de dados e Inteligência Artificial.
+Tenho experiência prática em projetos acadêmicos e pessoais envolvendo desenvolvimento web, aplicações Full Stack, APIs REST, integração com bancos de dados, processamento de dados e Inteligência Artificial.
 
 Atualmente, desenvolvo projetos utilizando Python, Java, JavaScript, TypeScript, React, FastAPI, Spring Boot, SQL e bancos de dados, além de ferramentas como Git, GitHub, Docker e GitHub Actions.
 
