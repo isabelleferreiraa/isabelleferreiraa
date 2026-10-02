@@ -130,13 +130,13 @@ Projeto multidisciplinar desenvolvido para a Global Solution da FIAP, propondo u
 
 | Área | Tecnologias |
 |:---:|:---|
-| Linguagens | Python • Java • JavaScript • TypeScript • SQL |
-| Backend | FastAPI • Spring Boot • APIs REST • SQLAlchemy |
-| Frontend | React • TypeScript • JavaScript • HTML • CSS |
-| Banco de Dados | PostgreSQL • MongoDB • MySQL • Oracle |
-| DevOps | Docker • Git • GitHub Actions • CI/CD |
-| Testes | Pytest |
-| Cloud | AWS |
+| **Linguagens** | Python • Java • JavaScript • TypeScript • SQL |
+| **Backend** | FastAPI • Spring Boot • APIs REST • SQLAlchemy |
+| **Frontend** | React • TypeScript • JavaScript • HTML • CSS |
+| **Banco de Dados** | PostgreSQL • MongoDB • MySQL • Oracle |
+| **DevOps e Ferramentas** | Docker • Git • GitHub • GitHub Actions • CI/CD |
+| **Testes** | Pytest |
+| **Cloud** | AWS — em estudo |
 
 </div>
 
