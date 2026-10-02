@@ -45,17 +45,17 @@ Aplicação full stack desenvolvida para análise de relacionamentos utilizando 
 
 ## MoveUP
 
-**Projeto FIAP — Sustentabilidade em Movimento**
+**Plataforma de Conversão de Pontos em Créditos de Transporte Público**
 
-Projeto acadêmico interdisciplinar desenvolvido em equipe para o Challenge da FIAP, com a proposta de transformar pontos e benefícios da plataforma SoulUp em créditos de transporte público, incentivando a mobilidade sustentável. *Projeto finalista na banca do Challenge da FIAP.*
+Projeto acadêmico interdisciplinar desenvolvido em equipe para o Challenge da FIAP, em parceria com a SoulUp, com a proposta de transformar pontos e benefícios em créditos para transporte público, incentivando a mobilidade sustentável. *Projeto finalista na banca do Challenge da FIAP.*
 
-O MoveUP reúne diferentes entregas de desenvolvimento de software, banco de dados e análise de dados:
+O MoveUP reúne diferentes entregas de desenvolvimento de software, banco de dados, Python e análise de dados:
 
-- **Frontend:** desenvolvimento da interface da aplicação com React e TypeScript, contemplando funcionalidades de conversão de créditos, missões e acompanhamento do impacto ambiental.
-- **Backend em Java:** implementação da lógica do sistema com operações CRUD, organização em camadas Model, DAO, Connection e Test, além da comunicação com o banco de dados Oracle por meio de JDBC.
-- **Banco de dados:** modelagem e implementação de um banco relacional no Oracle, com 10 tabelas, relacionamentos e restrições de integridade.
-- **Python:** desenvolvimento de um sistema interativo no terminal para simular o gerenciamento de usuários, viagens, pontos, vouchers e impacto ambiental.
-- **Inteligência Artificial e Dados:** tratamento e análise exploratória de dados de mobilidade urbana com Python, preparando uma base para uma futura solução de inteligência artificial voltada à conversão de tarifas em pontos.
+- **Frontend:** desenvolvimento da interface com React, TypeScript, Vite, Tailwind CSS e React Router.
+- **Java:** desenvolvimento da aplicação utilizando Programação Orientada a Objetos, JDBC, DAO e operações CRUD.
+- **Banco de Dados:** modelagem e implementação de banco relacional utilizando Oracle Database e SQL.
+- **Python:** desenvolvimento de uma aplicação para simulação e gerenciamento de dados relacionados ao projeto.
+- **Dados e Inteligência Artificial:** tratamento e análise exploratória de dados de mobilidade urbana, preparando uma base para aplicação de conceitos de Inteligência Artificial.
 
 ### Tecnologias utilizadas
 
@@ -66,7 +66,6 @@ O MoveUP reúne diferentes entregas de desenvolvimento de software, banco de dad
 | **Banco de dados** | Oracle Database • SQL • Oracle SQL Developer |
 | **Dados e Python** | Python • Pandas • NumPy • Matplotlib • Seaborn • Google Colab |
 | **Modelagem e prototipação** | UML • Figma • Trello |
-
 
 <p align="left">
   <a href="https://github.com/orgs/MoveUp-Organization/repositories">
