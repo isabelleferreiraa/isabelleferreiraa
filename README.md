@@ -148,8 +148,6 @@ Projeto multidisciplinar desenvolvido para uma solução de conectividade em reg
 <div align="center">
 
 <img src="https://img.shields.io/badge/Spring%20Boot-7C3AED?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 
 </div>
