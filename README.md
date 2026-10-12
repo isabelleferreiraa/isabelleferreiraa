@@ -1,18 +1,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B0D1A,50:481529,100:712443&height=220&section=header&text=ISABELLE%20FERREIRA&fontSize=34&fontColor=ffffff&font=montserrat&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20IN%20TRAINING&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B0D1A,50:481529,100:712443&height=220&section=header&text=ISABELLE%20FERREIRA&fontSize=34&fontColor=ffffff&font=montserrat&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20IN%20TRAINING&descAlignY=58&descSize=16" width="100%" alt="Isabelle Ferreira - Full Stack Developer em formação"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=DCA4BB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Training;Software+Development;Building+projects+and+learning+new+technologies;Python+%7C+Java+%7C+TypeScript+%7C+React" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=DCA4BB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Training;Software+Development;Building+projects+and+learning+new+technologies;Python+%7C+Java+%7C+TypeScript+%7C+React" alt="Tecnologias e interesses de Isabelle Ferreira"/>
 
 <br>
 
-<div align="center">
+**Análise e Desenvolvimento de Sistemas — FIAP**
 
-**Análise e Desenvolvimento de Sistemas — FIAP**  
-**Full Stack Developer em formação**
+<br>
+
+[![Portfólio Web](https://img.shields.io/badge/PORTF%C3%93LIO%20WEB-712443?style=for-the-badge&logoColor=white)](https://isabelle-ferreira.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-712443?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/isabelle-ferreira-8844593ab/)
+[![E-mail](https://img.shields.io/badge/E--MAIL-712443?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelleferreiraa999@gmail.com)
 
 </div>
 
@@ -20,167 +21,183 @@
 
 # Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP, com interesse em desenvolvimento de software, tecnologia e criação de soluções práticas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com previsão de conclusão em **dezembro de 2027**. Tenho interesse em desenvolvimento e engenharia de software, front-end, back-end e engenharia de dados.
 
-Tenho experiência prática em projetos acadêmicos e pessoais envolvendo desenvolvimento web, aplicações Full Stack, APIs REST, integração com bancos de dados, processamento de dados e Inteligência Artificial.
+Tenho experiência prática em **projetos acadêmicos e colaborativos**, envolvendo desenvolvimento de aplicações, APIs REST, integração com bancos de dados, processamento de dados e soluções com Inteligência Artificial. Utilizo tecnologias como Python, Java, TypeScript, React, FastAPI e Spring Boot, além de ferramentas de versionamento e desenvolvimento colaborativo.
 
-Atualmente, desenvolvo projetos utilizando Python, Java, JavaScript, TypeScript, React, FastAPI, Spring Boot, SQL e bancos de dados, além de ferramentas como Git, GitHub, Docker e GitHub Actions.
+Minha experiência profissional na área administrativa fortaleceu habilidades como organização, comunicação, responsabilidade e trabalho em equipe. Também estudo inglês na **InFlux English School**, buscando aprimorar continuamente minha formação.
 
-Gosto de aprender novas tecnologias, entender como as aplicações funcionam e transformar conhecimentos em projetos práticos.
+Atualmente, busco minha **primeira oportunidade de estágio em tecnologia**, onde possa aplicar meus conhecimentos, colaborar com equipes e continuar evoluindo profissionalmente.
 
 ---
 
 # Projetos
 
-## NexusLens
-
-**IA para Análise de Grafos**
-
-Aplicação full stack desenvolvida para análise de relacionamentos utilizando teoria dos grafos e Inteligência Artificial.
-
-**Tecnologias:** Python • FastAPI • PostgreSQL • React • TypeScript • Docker
-
-<a href="https://github.com/isabelleferreiraa/NexusLens"><img src="https://img.shields.io/badge/Ver%20Projeto-712443?style=for-the-badge&logo=github&logoColor=white"/></a>
-
----
-
 ## MoveUP
 
 **Plataforma de Conversão de Pontos em Créditos de Transporte Público**
 
-Projeto acadêmico interdisciplinar desenvolvido em equipe para o Challenge da FIAP, em parceria com a SoulUp, com a proposta de transformar pontos e benefícios em créditos para transporte público, incentivando a mobilidade sustentável. *Projeto finalista na banca do Challenge da FIAP.*
+Projeto acadêmico interdisciplinar desenvolvido em equipe para o **Challenge da FIAP**, em parceria com a **SoulUp**. A solução propõe transformar pontos e benefícios em créditos para transporte público, incentivando a mobilidade urbana sustentável.
 
-O MoveUP reúne diferentes entregas de desenvolvimento de software, banco de dados, Python e análise de dados:
+🏆 **Projeto finalista na banca do Challenge da FIAP.**
 
-- **Frontend:** desenvolvimento da interface com React, TypeScript, Vite, Tailwind CSS e React Router.
-- **Java:** desenvolvimento da aplicação utilizando Programação Orientada a Objetos, JDBC, DAO e operações CRUD.
-- **Banco de Dados:** modelagem e implementação de banco relacional utilizando Oracle Database e SQL.
-- **Python:** desenvolvimento de uma aplicação para simulação e gerenciamento de dados relacionados ao projeto.
-- **Dados e Inteligência Artificial:** tratamento e análise exploratória de dados de mobilidade urbana, preparando uma base para aplicação de conceitos de Inteligência Artificial.
+O MoveUP reúne entregas de diferentes disciplinas:
 
-### Tecnologias utilizadas
+- **Front-end:** desenvolvimento de uma interface web com React, TypeScript, Vite, Tailwind CSS e React Router.
+- **Java:** implementação de funcionalidades e regras de negócio utilizando Programação Orientada a Objetos, JDBC, DAO e operações CRUD.
+- **Banco de Dados:** modelagem e implementação de um banco relacional Oracle com 10 tabelas, relacionamentos e restrições de integridade.
+- **Python:** desenvolvimento de uma aplicação com menus para gerenciamento de usuários, viagens, pontos, missões e vouchers.
+- **IA e Análise de Dados:** tratamento, análise exploratória e preparação de um dataset de mobilidade urbana para futuras aplicações de Inteligência Artificial, utilizando Python, Pandas, NumPy, Matplotlib, Seaborn e Google Colab.
 
-| Área | Tecnologias e ferramentas |
-|---|---|
-| **Frontend** | React • TypeScript • Vite • Tailwind CSS • React Router |
-| **Backend** | Java • JDBC • CRUD • DAO |
-| **Banco de dados** | Oracle Database • SQL • Oracle SQL Developer |
-| **Dados e Python** | Python • Pandas • NumPy • Matplotlib • Seaborn • Google Colab |
-| **Modelagem e prototipação** | UML • Figma • Trello |
+**Principais tecnologias:** React • TypeScript • Vite • Tailwind CSS • Java • JDBC • Oracle Database • SQL • Python • Pandas • NumPy
 
-<p align="left">
-  <a href="https://github.com/orgs/MoveUp-Organization/repositories">
-    <img src="https://img.shields.io/badge/VER_PROJETO-712443?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
-  </a>
-</p>
+[![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/MoveUp-Organization/repositories)
+
+---
+
+## NexusLens
+
+**Plataforma de Análise de Redes Financeiras com Inteligência Artificial**
+
+Aplicação Full Stack desenvolvida para auxiliar na identificação de **padrões de risco em redes de transações financeiras**, combinando Teoria dos Grafos, análise de redes e Inteligência Artificial Generativa.
+
+O NexusLens oferece:
+
+- **Análise de Grafos:** representação das relações entre clientes e transações financeiras utilizando NetworkX.
+- **Avaliação de Risco:** cálculo de métricas, classificação dos níveis de risco e identificação de padrões potencialmente suspeitos.
+- **Inteligência Artificial:** integração com a API do Google Gemini para gerar relatórios e recomendações em linguagem natural.
+- **Dashboard Interativo:** visualização dos grafos, indicadores e resultados por meio de uma interface React.
+- **Back-end e Banco de Dados:** API REST desenvolvida com FastAPI e persistência de dados em PostgreSQL.
+
+**Tecnologias:** Python • FastAPI • React • JavaScript • PostgreSQL • SQLAlchemy • NetworkX • Google Gemini API • Docker
+
+[![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabelleferreiraa/NexusLens)
+[![Ver Aplicação](https://img.shields.io/badge/VER%20APLICA%C3%87%C3%83O-712443?style=for-the-badge&logoColor=white)](https://nexuslens-frontend.vercel.app)
 
 ---
 
 ## Pipeline ETL
 
-**Integração e Processamento de Dados**
+**Integração, Transformação e Processamento de Dados**
 
-Pipeline desenvolvido para extração, transformação e carregamento de dados provenientes de uma API REST.
+Projeto de Engenharia de Dados desenvolvido em Python para automatizar processos de **extração, transformação, validação e carregamento de dados**.
 
-**Tecnologias:** Python • Pandas • PostgreSQL • Docker • Pytest • GitHub Actions
+O pipeline consome informações da Fake Store API, realiza o tratamento com Pandas e armazena os resultados em arquivos CSV e em um banco PostgreSQL.
 
-<a href="https://github.com/isabelleferreiraa/pipeline-etl-vendas"><img src="https://img.shields.io/badge/Ver%20Projeto-712443?style=for-the-badge&logo=github&logoColor=white"/></a>
+Entre os recursos implementados estão:
+
+- **ETL:** organização do processamento em etapas de extração, transformação, validação e carga.
+- **Persistência:** armazenamento dos dados tratados em PostgreSQL.
+- **Automação:** execução com Docker e Docker Compose.
+- **Qualidade:** testes automatizados com Pytest e integração contínua com GitHub Actions.
+- **Monitoramento:** geração de logs e tratamento de exceções durante a execução.
+
+**Tecnologias:** Python • Pandas • Requests • PostgreSQL • Docker • Pytest • GitHub Actions
+
+[![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabelleferreiraa/pipeline-etl-vendas)
 
 ---
 
 ## OrbitSafe
 
-**Solução de Conectividade via Satélite**
+**Solução de Conectividade via Satélite para Emergências Climáticas**
 
-Projeto multidisciplinar desenvolvido para a Global Solution da FIAP, propondo uma solução tecnológica para prevenção, monitoramento e resposta a situações de emergência e desastres naturais utilizando conectividade via satélites de baixa órbita (LEO).
+Projeto interdisciplinar desenvolvido em equipe para a **Global Solution da FIAP**, com foco na prevenção, no monitoramento e na resposta a desastres naturais.
 
-**Tecnologias:** Java • Python • SQL • IBM Watson Assistant • Node-RED • HTML • CSS • JavaScript
+O OrbitSafe propõe utilizar conectividade via satélites de baixa órbita (LEO) para apoiar a comunicação em situações de emergência, especialmente quando a infraestrutura terrestre está comprometida.
 
-<a href="https://github.com/ORBITSAFE-GlobalSolution/ORBITSAFE"><img src="https://img.shields.io/badge/Ver%20Projeto-712443?style=for-the-badge&logo=github&logoColor=white"/></a>
+O projeto reúne entregas em diferentes áreas:
+
+- **Desenvolvimento Web:** interface responsiva com HTML, CSS e JavaScript.
+- **Java:** aplicação com Programação Orientada a Objetos e interfaces gráficas.
+- **Banco de Dados:** modelagem relacional e scripts SQL.
+- **Python:** simulação de rotinas de análise de risco climático e gerenciamento de ocorrências.
+- **Inteligência Artificial:** assistente conversacional com IBM Watson Assistant e fluxos de integração utilizando Node-RED.
+
+**Tecnologias:** Java • Python • SQL • HTML • CSS • JavaScript • IBM Watson Assistant • Node-RED
+
+[![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ORBITSAFE-GlobalSolution/ORBITSAFE)
 
 ---
 
-# Tecnologias
+## Portal de Locais Acessíveis
+
+**Aplicação Web Colaborativa com Foco em Acessibilidade**
+
+Projeto acadêmico colaborativo em desenvolvimento, realizado com estudantes da FIAP, que busca facilitar a descoberta de estabelecimentos e serviços com recursos de acessibilidade.
+
+A proposta contempla a organização de locais por categorias e características como rampas, banheiros adaptados, piso tátil e atendimento em Libras.
+
+O desenvolvimento utiliza componentes reutilizáveis, navegação por rotas, tipagem estática e boas práticas de acessibilidade web.
+
+**Minha participação:** contribuições para a acessibilidade da interface e melhorias no menu mobile, incluindo navegação por teclado, fechamento com a tecla Esc e gerenciamento do foco.
+
+**Tecnologias:** React • TypeScript • Vite • Tailwind CSS • React Router • Git • GitHub
+
+**Status:** Em desenvolvimento.
+
+[![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1TDSPH-26/portal-locais-acessiveis)
+[![Ver Contribuição](https://img.shields.io/badge/VER%20CONTRIBUI%C3%87%C3%83O-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1TDSPH-26/portal-locais-acessiveis/pull/140)
+
+---
+
+# Tecnologias e Ferramentas
 
 <div align="center">
 
 ### Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" alt="Python, Java, JavaScript e TypeScript"/>
 
-### Desenvolvimento
+### Front-end
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,spring,html,css" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="React, HTML, CSS, Tailwind e Vite"/>
 
-### Banco de Dados
+### Back-end
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/>
+<img src="https://skillicons.dev/icons?i=fastapi,spring" alt="FastAPI e Spring Boot"/>
 
-### Ferramentas
+### Bancos de Dados
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,githubactions" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="PostgreSQL, MongoDB e MySQL"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" alt="Oracle Database"/>
+
+### Ferramentas e DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,githubactions" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA e GitHub Actions"/>
+
+</div>
+
+### Outros conhecimentos
+
+- **APIs e persistência:** APIs REST, SQLAlchemy, JDBC e DAO.
+- **Engenharia de Dados:** Pandas, NumPy, processos ETL e tratamento de dados.
+- **Testes e qualidade:** Pytest, CI/CD e GitHub Actions.
+- **Ferramentas:** Oracle SQL Developer, Figma, Excel e Power BI.
+
+### Atualmente estudando
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SPRING%20BOOT-712443?style=for-the-badge&logo=springboot&logoColor=white" alt="Estudando Spring Boot"/>
+<img src="https://img.shields.io/badge/AWS-712443?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Estudando AWS"/>
 
 </div>
 
 ---
 
-# Conhecimentos
+# Estatísticas do GitHub
 
 <div align="center">
 
-| Área | Tecnologias |
-|:---:|:---|
-| **Linguagens** | Python • Java • JavaScript • TypeScript • SQL |
-| **Backend** | FastAPI • Spring Boot • APIs REST • SQLAlchemy |
-| **Frontend** | React • TypeScript • JavaScript • HTML • CSS |
-| **Banco de Dados** | PostgreSQL • MongoDB • MySQL • Oracle |
-| **DevOps e Ferramentas** | Docker • Git • GitHub • GitHub Actions • CI/CD |
-| **Testes** | Pytest |
-| **Cloud** | AWS — em estudo |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=isabelleferreiraa&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
 
-</div>
-
----
-
-# Atualmente estudando
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Spring%20Boot-712443?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-712443?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-
-</div>
-
----
-
-# GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=isabelleferreiraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleferreiraa&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleferreiraa&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isabelleferreiraa&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Formação
-
-<div align="center">
-
-**FIAP**  
-Análise e Desenvolvimento de Sistemas
-
-Cursando | Previsão de conclusão: Dezembro/2027
-
-**InFlux English School**  
-Curso de Inglês — Cursando
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isabelleferreiraa&theme=tokyonight&hide_border=true" alt="Sequência de contribuições do GitHub"/>
 
 </div>
 
@@ -188,37 +205,22 @@ Curso de Inglês — Cursando
 
 # Certificações e Cursos
 
-<div align="center">
-
 | Instituição | Curso |
 |:---:|:---|
-| **FIAP** | Certificado de Qualificação Profissional em Análise de Sistemas e Prototipação Web — Selo Prata |
+| **FIAP** | Qualificação Profissional em Análise de Sistemas e Prototipação Web — Selo Prata |
 | **FIAP** | Nano Course: Engenharia de Software |
 | **FIAP** | Nano Course: Python Development |
 | **FIAP** | Nano Course: Front-end |
 | **TOTVS** | Fundamentos JavaScript: Simples e Prático |
+| **Alura** | Introdução à Engenharia de Dados |
 | **FGV** | Introdução à Ciência de Dados |
 | **Alura** | Power BI Desktop: construindo meu primeiro dashboard |
-| **Alura** | Introdução à Engenharia de Dados |
-
-</div>
+| **Alura** | Figma |
 
 ---
 
-# Contato
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/isabelle-ferreira-8844593ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:isabelleferreiraa999@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/isabelleferreiraa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:712443,50:481529,100:2B0D1A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:712443,50:481529,100:2B0D1A&height=120&section=footer" width="100%" alt="Rodapé decorativo em tons de vinho"/>
 
 </div>
