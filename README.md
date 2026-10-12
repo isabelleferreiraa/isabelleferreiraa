@@ -1,8 +1,9 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:4c1d95,100:7c3aed&height=220&section=header&text=ISABELLE%20FERREIRA&fontSize=34&fontColor=ffffff&font=montserrat&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20IN%20TRAINING&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B0D1A,50:481529,100:712443&height=220&section=header&text=ISABELLE%20FERREIRA&fontSize=34&fontColor=ffffff&font=montserrat&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20IN%20TRAINING&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Training;Software+Development;Building+projects+and+learning+new+technologies;Python+%7C+Java+%7C+TypeScript+%7C+React" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=DCA4BB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Training;Software+Development;Building+projects+and+learning+new+technologies;Python+%7C+Java+%7C+TypeScript+%7C+React" />
 
 </div>
 
@@ -39,7 +40,7 @@ Aplicação full stack desenvolvida para análise de relacionamentos utilizando 
 
 **Tecnologias:** Python • FastAPI • PostgreSQL • React • TypeScript • Docker
 
-<a href="https://github.com/isabelleferreiraa/NexusLens"><img src="https://img.shields.io/badge/Ver%20Projeto-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/isabelleferreiraa/NexusLens"><img src="https://img.shields.io/badge/Ver%20Projeto-712443?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ---
 
@@ -69,7 +70,7 @@ O MoveUP reúne diferentes entregas de desenvolvimento de software, banco de dad
 
 <p align="left">
   <a href="https://github.com/orgs/MoveUp-Organization/repositories">
-    <img src="https://img.shields.io/badge/VER_PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
+    <img src="https://img.shields.io/badge/VER_PROJETO-712443?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
   </a>
 </p>
 
@@ -83,7 +84,7 @@ Pipeline desenvolvido para extração, transformação e carregamento de dados p
 
 **Tecnologias:** Python • Pandas • PostgreSQL • Docker • Pytest • GitHub Actions
 
-<a href="https://github.com/isabelleferreiraa/pipeline-etl-vendas"><img src="https://img.shields.io/badge/Ver%20Projeto-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/isabelleferreiraa/pipeline-etl-vendas"><img src="https://img.shields.io/badge/Ver%20Projeto-712443?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ---
 
@@ -95,7 +96,7 @@ Projeto multidisciplinar desenvolvido para a Global Solution da FIAP, propondo u
 
 **Tecnologias:** Java • Python • SQL • IBM Watson Assistant • Node-RED • HTML • CSS • JavaScript
 
-<a href="https://github.com/ORBITSAFE-GlobalSolution/ORBITSAFE"><img src="https://img.shields.io/badge/Ver%20Projeto-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/ORBITSAFE-GlobalSolution/ORBITSAFE"><img src="https://img.shields.io/badge/Ver%20Projeto-712443?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ---
 
@@ -146,8 +147,8 @@ Projeto multidisciplinar desenvolvido para a Global Solution da FIAP, propondo u
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Spring%20Boot-7C3AED?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-712443?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-712443?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 
 </div>
 
@@ -218,6 +219,6 @@ Curso de Inglês — Cursando
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:09090b&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:712443,50:481529,100:2B0D1A&height=120&section=footer" width="100%"/>
 
 </div>
