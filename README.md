@@ -21,13 +21,7 @@
 
 # Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com previsão de conclusão em **dezembro de 2027**. Tenho interesse em desenvolvimento e engenharia de software, front-end, back-end e engenharia de dados.
-
-Tenho experiência prática em **projetos acadêmicos e colaborativos**, envolvendo desenvolvimento de aplicações, APIs REST, integração com bancos de dados, processamento de dados e soluções com Inteligência Artificial. Utilizo tecnologias como Python, Java, TypeScript, React, FastAPI e Spring Boot, além de ferramentas de versionamento e desenvolvimento colaborativo.
-
-Minha experiência profissional na área administrativa fortaleceu habilidades como organização, comunicação, responsabilidade e trabalho em equipe. Também estudo inglês na **InFlux English School**, buscando aprimorar continuamente minha formação.
-
-Atualmente, busco minha **primeira oportunidade de estágio em tecnologia**, onde possa aplicar meus conhecimentos, colaborar com equipes e continuar evoluindo profissionalmente.
+Sou uma futura desenvolvedora Full Stack, com interesse em desenvolvimento e engenharia de software, front-end, back-end e engenharia de dados. Tenho experiência prática em projetos acadêmicos e colaborativos envolvendo aplicações web, APIs, bancos de dados e Inteligência Artificial.
 
 ---
 
