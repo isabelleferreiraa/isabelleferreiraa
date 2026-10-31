@@ -21,13 +21,15 @@
 
 # Sobre Mim
 
-Sou uma futura desenvolvedora Full Stack, com interesse em desenvolvimento e engenharia de software, front-end, back-end e engenharia de dados. Tenho experiência prática em projetos acadêmicos e colaborativos envolvendo aplicações web, APIs, bancos de dados e Inteligência Artificial.
+Futura desenvolvedora Full Stack, com interesse em desenvolvimento e engenharia de software, front-end, back-end e engenharia de dados. Tenho experiência prática em projetos acadêmicos e colaborativos envolvendo aplicações web, APIs, bancos de dados e Inteligência Artificial.
 
 ---
 
 # Projetos
 
-## MoveUP
+<details>
+<summary><strong>MoveUP — Plataforma de Mobilidade Sustentável</strong></summary>
+<br>
 
 **Plataforma de Conversão de Pontos em Créditos de Transporte Público**
 
@@ -47,9 +49,13 @@ O MoveUP reúne entregas de diferentes disciplinas:
 
 [![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/MoveUp-Organization/repositories)
 
+</details>
+
 ---
 
-## NexusLens
+<details>
+<summary><strong>NexusLens — Análise Financeira com Inteligência Artificial</strong></summary>
+<br>
 
 **Plataforma de Análise de Redes Financeiras com Inteligência Artificial**
 
@@ -66,11 +72,16 @@ O NexusLens oferece:
 **Tecnologias:** Python • FastAPI • React • JavaScript • PostgreSQL • SQLAlchemy • NetworkX • Google Gemini API • Docker
 
 [![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabelleferreiraa/NexusLens)
+
 [![Ver Aplicação](https://img.shields.io/badge/VER%20APLICA%C3%87%C3%83O-712443?style=for-the-badge&logoColor=white)](https://nexuslens-frontend.vercel.app)
+
+</details>
 
 ---
 
-## Pipeline ETL
+<details>
+<summary><strong>Pipeline ETL — Engenharia de Dados com Python</strong></summary>
+<br>
 
 **Integração, Transformação e Processamento de Dados**
 
@@ -90,9 +101,13 @@ Entre os recursos implementados estão:
 
 [![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabelleferreiraa/pipeline-etl-vendas)
 
+</details>
+
 ---
 
-## OrbitSafe
+<details>
+<summary><strong>OrbitSafe — Conectividade e Emergências Climáticas</strong></summary>
+<br>
 
 **Solução de Conectividade via Satélite para Emergências Climáticas**
 
@@ -112,9 +127,13 @@ O projeto reúne entregas em diferentes áreas:
 
 [![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ORBITSAFE-GlobalSolution/ORBITSAFE)
 
+</details>
+
 ---
 
-## Portal de Locais Acessíveis
+<details>
+<summary><strong>Portal de Locais Acessíveis — Acessibilidade Web</strong></summary>
+<br>
 
 **Aplicação Web Colaborativa com Foco em Acessibilidade**
 
@@ -131,7 +150,37 @@ O desenvolvimento utiliza componentes reutilizáveis, navegação por rotas, tip
 **Status:** Em desenvolvimento.
 
 [![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1TDSPH-26/portal-locais-acessiveis)
+
 [![Ver Contribuição](https://img.shields.io/badge/VER%20CONTRIBUI%C3%87%C3%83O-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1TDSPH-26/portal-locais-acessiveis/pull/140)
+
+</details>
+
+---
+
+---
+
+<details>
+<summary><strong>Portal de Locais Acessíveis — Acessibilidade Web</strong></summary>
+
+**Aplicação Web Colaborativa com Foco em Acessibilidade**
+
+Projeto acadêmico colaborativo em desenvolvimento, realizado com estudantes da FIAP, que busca facilitar a descoberta de estabelecimentos e serviços com recursos de acessibilidade.
+
+A proposta contempla a organização de locais por categorias e características como rampas, banheiros adaptados, piso tátil e atendimento em Libras.
+
+O desenvolvimento utiliza componentes reutilizáveis, navegação por rotas, tipagem estática e boas práticas de acessibilidade web.
+
+**Minha participação:** contribuições para a acessibilidade da interface e melhorias no menu mobile, incluindo navegação por teclado, fechamento com a tecla Esc e gerenciamento do foco.
+
+**Tecnologias:** React • TypeScript • Vite • Tailwind CSS • React Router • Git • GitHub
+
+**Status:** Em desenvolvimento.
+
+[![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1TDSPH-26/portal-locais-acessiveis)
+
+[![Ver Contribuição](https://img.shields.io/badge/VER%20CONTRIBUI%C3%87%C3%83O-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1TDSPH-26/portal-locais-acessiveis/pull/140)
+
+</details>
 
 ---
 
@@ -181,23 +230,18 @@ O desenvolvimento utiliza componentes reutilizáveis, navegação por rotas, tip
 
 ---
 
-# Estatísticas do GitHub
+# 📊 Atividade no GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=isabelleferreiraa&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleferreiraa&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isabelleferreiraa&theme=tokyonight&hide_border=true" alt="Sequência de contribuições do GitHub"/>
-
-</div>
+[Veja minhas contribuições e repositórios no GitHub.](https://github.com/isabelleferreiraa?tab=repositories)
 
 ---
 
+
 # Certificações e Cursos
+
+<details>
+<summary><strong>Ver certificações e cursos</strong></summary>
+<br>
 
 | Instituição | Curso |
 |:---:|:---|
@@ -211,7 +255,10 @@ O desenvolvimento utiliza componentes reutilizáveis, navegação por rotas, tip
 | **Alura** | Power BI Desktop: construindo meu primeiro dashboard |
 | **Alura** | Figma |
 
+</details>
+
 ---
+
 
 <div align="center">
 
