@@ -7,8 +7,6 @@
 
 <br>
 
-**Análise e Desenvolvimento de Sistemas — FIAP**
-
 <br>
 
 [![Portfólio Web](https://img.shields.io/badge/PORTF%C3%93LIO%20WEB-712443?style=for-the-badge&logoColor=white)](https://isabelle-ferreira.vercel.app)
@@ -25,13 +23,24 @@ Sou uma futura desenvolvedora Full Stack, com interesse em desenvolvimento e eng
 
 ---
 
+# Formação
+
+**FIAP — Análise e Desenvolvimento de Sistemas**
+
+**inFlux English School — Inglês**
+
+**Idiomas:** Inglês intermediário • Espanhol básico
+
+---
+
 # Projetos
 
 <details>
 <summary>
 <strong>🚀 MoveUP — Plataforma de Mobilidade Sustentável</strong><br>
-<sub>🏆 Projeto finalista na FIAP que propõe transformar pontos digitais em créditos de transporte público.</sub>
+<small>Projeto finalista na FIAP que propõe transformar pontos digitais em créditos de transporte público.</small>
 </summary>
+
 <br>
 
 ### Transformando engajamento digital em mobilidade sustentável
@@ -40,9 +49,9 @@ O **MoveUP** é uma solução desenvolvida para o **Challenge da FIAP**, em parc
 
 A proposta combina **tecnologia, gamificação e sustentabilidade** para incentivar o uso do transporte coletivo e promover hábitos de mobilidade mais conscientes.
 
-🏆 **Destaque:** Projeto finalista na banca do Challenge da FIAP.
+**Destaque:** Projeto finalista na banca do Challenge da FIAP.
 
-**💡 Principais entregas**
+**Principais entregas**
 
 - **Desenvolvimento Front-end:** interface web com React e TypeScript, utilizando componentes reutilizáveis, rotas e layout responsivo.
 - **Desenvolvimento Java:** implementação de regras de negócio com Programação Orientada a Objetos, JDBC, DAO e operações CRUD.
@@ -50,7 +59,7 @@ A proposta combina **tecnologia, gamificação e sustentabilidade** para incenti
 - **Desenvolvimento Python:** aplicação para gerenciamento de usuários, viagens, pontos, missões e vouchers.
 - **IA e Análise de Dados:** tratamento e análise exploratória de dados de mobilidade urbana para futuras aplicações de Inteligência Artificial.
 
-**🛠️ Tecnologias utilizadas**
+**Tecnologias utilizadas**
 
 ![React](https://img.shields.io/badge/React-712443?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-712443?style=flat-square&logo=typescript&logoColor=white)
@@ -62,7 +71,7 @@ A proposta combina **tecnologia, gamificação e sustentabilidade** para incenti
 ![Pandas](https://img.shields.io/badge/Pandas-712443?style=flat-square&logo=pandas&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-712443?style=flat-square&logo=vite&logoColor=white)
 
-**🔗 Conheça o projeto**
+**Conheça o projeto**
 
 [![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/MoveUp-Organization/repositories)
 
@@ -73,8 +82,9 @@ A proposta combina **tecnologia, gamificação e sustentabilidade** para incenti
 <details>
 <summary>
 <strong>🧠 NexusLens — Análise Financeira com Inteligência Artificial</strong><br>
-<sub>Aplicação Full Stack que combina análise de grafos e IA generativa para identificar padrões de risco financeiro.</sub>
+<small>Aplicação Full Stack que combina análise de grafos e IA generativa para identificar padrões de risco financeiro.</small>
 </summary>
+
 <br>
 
 ### Inteligência Artificial aplicada à análise de riscos financeiros
@@ -83,7 +93,7 @@ O **NexusLens** é uma aplicação **Full Stack** que combina Teoria dos Grafos,
 
 A plataforma transforma relações entre clientes e transações em **visualizações interativas, indicadores de risco e relatórios inteligentes**, auxiliando a interpretação de dados financeiros complexos.
 
-**💡 Principais funcionalidades**
+**Principais funcionalidades**
 
 - **Análise de Grafos:** construção e visualização de redes financeiras utilizando NetworkX.
 - **Avaliação de Risco:** cálculo de métricas, classificação de níveis de risco e identificação de padrões potencialmente suspeitos.
@@ -91,7 +101,7 @@ A plataforma transforma relações entre clientes e transações em **visualiza�
 - **Dashboard Interativo:** interface desenvolvida em React para exploração visual dos resultados.
 - **API REST e Persistência:** back-end desenvolvido com FastAPI e armazenamento de dados em PostgreSQL.
 
-**🛠️ Tecnologias utilizadas**
+**Tecnologias utilizadas**
 
 ![Python](https://img.shields.io/badge/Python-712443?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-712443?style=flat-square&logo=fastapi&logoColor=white)
@@ -102,7 +112,7 @@ A plataforma transforma relações entre clientes e transações em **visualiza�
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-712443?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-712443?style=flat-square&logo=docker&logoColor=white)
 
-**🔗 Explore o projeto**
+**Explore o projeto**
 
 [![Ver Código](https://img.shields.io/badge/VER%20C%C3%93DIGO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabelleferreiraa/NexusLens)
 [![Acessar Aplicação](https://img.shields.io/badge/ACESSAR%20APLICA%C3%87%C3%83O-712443?style=for-the-badge&logoColor=white)](https://nexuslens-frontend.vercel.app)
@@ -114,8 +124,9 @@ A plataforma transforma relações entre clientes e transações em **visualiza�
 <details>
 <summary>
 <strong>📊 Pipeline ETL — Engenharia de Dados com Python</strong><br>
-<sub>Pipeline automatizado que transforma dados brutos em informações estruturadas, com testes e integração contínua.</sub>
+<small>Pipeline automatizado que transforma dados brutos em informações estruturadas, com testes e integração contínua.</small>
 </summary>
+
 <br>
 
 ### Automatizando o processamento de dados de ponta a ponta
@@ -126,7 +137,7 @@ O pipeline consome dados da **Fake Store API**, realiza o tratamento com Pandas 
 
 A implementação prioriza **automação, qualidade de dados, rastreabilidade e boas práticas de desenvolvimento**.
 
-**💡 Principais funcionalidades**
+**Principais funcionalidades**
 
 - **Extração e Transformação:** consumo de API REST e processamento de dados com Python e Pandas.
 - **Validação e Persistência:** verificação dos dados e armazenamento estruturado em PostgreSQL.
@@ -135,7 +146,7 @@ A implementação prioriza **automação, qualidade de dados, rastreabilidade e 
 - **Integração Contínua:** execução de verificações automatizadas com GitHub Actions.
 - **Monitoramento:** implementação de logs e tratamento de exceções para acompanhamento do processamento.
 
-**🛠️ Tecnologias utilizadas**
+**Tecnologias utilizadas**
 
 ![Python](https://img.shields.io/badge/Python-712443?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-712443?style=flat-square&logo=pandas&logoColor=white)
@@ -145,7 +156,7 @@ A implementação prioriza **automação, qualidade de dados, rastreabilidade e 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-712443?style=flat-square&logo=githubactions&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-712443?style=flat-square&logoColor=white)
 
-**🔗 Conheça a implementação**
+**Conheça a implementação**
 
 [![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabelleferreiraa/pipeline-etl-vendas)
 
@@ -156,8 +167,9 @@ A implementação prioriza **automação, qualidade de dados, rastreabilidade e 
 <details>
 <summary>
 <strong>🛰️ OrbitSafe — Conectividade e Emergências Climáticas</strong><br>
-<sub>Solução que propõe conectividade via satélite e Inteligência Artificial para apoiar a resposta a desastres naturais.</sub>
+<small>Solução que propõe conectividade via satélite e Inteligência Artificial para apoiar a resposta a desastres naturais.</small>
 </summary>
+
 <br>
 
 ### Conectividade e Inteligência Artificial aplicadas à gestão de emergências
@@ -168,7 +180,7 @@ A proposta explora o uso de **conectividade via satélites de baixa órbita (LEO
 
 O projeto reúne diferentes áreas da tecnologia em uma proposta voltada à **resiliência, segurança e inovação social**.
 
-**💡 Principais entregas**
+**Principais entregas**
 
 - **Desenvolvimento Web:** interface responsiva com HTML, CSS e JavaScript.
 - **Desenvolvimento Java:** aplicação com Programação Orientada a Objetos e interfaces gráficas.
@@ -176,7 +188,7 @@ O projeto reúne diferentes áreas da tecnologia em uma proposta voltada à **re
 - **Desenvolvimento Python:** simulação de rotinas de análise de risco climático e gerenciamento de ocorrências.
 - **Inteligência Artificial:** assistente conversacional com IBM Watson Assistant e fluxos de automação e integração utilizando Node-RED.
 
-**🛠️ Tecnologias utilizadas**
+**Tecnologias utilizadas**
 
 ![Java](https://img.shields.io/badge/Java-712443?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-712443?style=flat-square&logo=python&logoColor=white)
@@ -187,7 +199,7 @@ O projeto reúne diferentes áreas da tecnologia em uma proposta voltada à **re
 ![IBM Watson](https://img.shields.io/badge/IBM_Watson-712443?style=flat-square&logo=ibm&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-712443?style=flat-square&logo=nodered&logoColor=white)
 
-**🔗 Conheça o projeto**
+**Conheça o projeto**
 
 [![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ORBITSAFE-GlobalSolution/ORBITSAFE)
 
@@ -198,8 +210,9 @@ O projeto reúne diferentes áreas da tecnologia em uma proposta voltada à **re
 <details>
 <summary>
 <strong>♿ Portal de Locais Acessíveis — Acessibilidade Web</strong><br>
-<sub>Aplicação colaborativa que facilita a descoberta de estabelecimentos acessíveis e promove inclusão digital.</sub>
+<small>Aplicação colaborativa que facilita a descoberta de estabelecimentos acessíveis e promove inclusão digital.</small>
 </summary>
+
 <br>
 
 ### Tecnologia para tornar a descoberta de lugares acessíveis mais simples
@@ -210,14 +223,14 @@ A proposta permite explorar informações sobre características dos locais, com
 
 O desenvolvimento envolve práticas de **Engenharia de Software, colaboração em equipe e acessibilidade web**.
 
-**💡 Minhas contribuições**
+**Minhas contribuições**
 
 - **Acessibilidade Web:** melhorias na navegação por teclado e na interação com componentes da interface.
 - **Menu Mobile:** implementação de comportamentos acessíveis, incluindo fechamento com a tecla Esc e gerenciamento do foco.
 - **Boas Práticas de Front-end:** desenvolvimento com componentes reutilizáveis, React e TypeScript.
 - **Desenvolvimento Colaborativo:** utilização de Git, branches e Pull Requests para organização e integração das alterações.
 
-**🛠️ Tecnologias utilizadas**
+**Tecnologias utilizadas**
 
 ![React](https://img.shields.io/badge/React-712443?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-712443?style=flat-square&logo=typescript&logoColor=white)
@@ -227,9 +240,9 @@ O desenvolvimento envolve práticas de **Engenharia de Software, colaboração e
 ![Git](https://img.shields.io/badge/Git-712443?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-712443?style=flat-square&logo=github&logoColor=white)
 
-**📌 Status:** Em desenvolvimento.
+**Status:** Em desenvolvimento.
 
-**🔗 Explore o projeto e minhas contribuições**
+**Explore o projeto e minhas contribuições**
 
 [![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1TDSPH-26/portal-locais-acessiveis)
 [![Ver Contribuição](https://img.shields.io/badge/VER%20CONTRIBUI%C3%87%C3%83O-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1TDSPH-26/portal-locais-acessiveis/pull/140)
@@ -294,6 +307,7 @@ O desenvolvimento envolve práticas de **Engenharia de Software, colaboração e
 
 <details>
 <summary><strong>Ver certificações e cursos</strong></summary>
+
 <br>
 
 | Instituição | Curso |
@@ -313,6 +327,12 @@ O desenvolvimento envolve práticas de **Engenharia de Software, colaboração e
 ---
 
 <div align="center">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=4000&pause=100000&color=DCA4BB&center=true&vCenter=true&width=900&lines=Sempre+aprendendo%2C+construindo+e+evoluindo+na+tecnologia." alt="Sempre aprendendo, construindo e evoluindo na tecnologia."/>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:712443,50:481529,100:2B0D1A&height=120&section=footer" width="100%" alt="Rodapé decorativo em tons de vinho"/>
 
