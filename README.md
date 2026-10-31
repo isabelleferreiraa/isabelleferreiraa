@@ -19,7 +19,7 @@
 
 # Sobre Mim
 
-Sou uma futura desenvolvedora Full Stack, com interesse em desenvolvimento e engenharia de software, front-end, back-end e engenharia de dados. Tenho experiência prática em projetos acadêmicos e colaborativos envolvendo aplicações web, APIs, bancos de dados e Inteligência Artificial.
+Futura desenvolvedora Full Stack, com interesse em desenvolvimento e engenharia de software, front-end, back-end e engenharia de dados. Tenho experiência prática em projetos acadêmicos e colaborativos envolvendo aplicações web, APIs, bancos de dados e Inteligência Artificial.
 
 ---
 
