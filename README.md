@@ -330,11 +330,11 @@ O desenvolvimento envolve práticas de **Engenharia de Software, colaboração e
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=4000&pause=100000&color=DCA4BB&center=true&vCenter=true&width=900&lines=Sempre+aprendendo%2C+construindo+e+evoluindo+na+tecnologia." alt="Sempre aprendendo, construindo e evoluindo na tecnologia."/>
+<img src="./programadora_rosa_ferrari.gif" width="90%" alt="GIF animado em pixel art de uma programadora em um quarto rosa com chuva e detalhes da Ferrari"/>
 
 <br>
 
-<img src="./programadora_rosa_ferrari.gif" width="90%" alt="GIF animado em pixel art de uma programadora em um quarto rosa com chuva e detalhes da Ferrari"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=4000&pause=100000&color=DCA4BB&center=true&vCenter=true&width=900&lines=Sempre+aprendendo%2C+construindo+e+evoluindo+na+tecnologia." alt="Sempre aprendendo, construindo e evoluindo na tecnologia."/>
 
 <br>
 
