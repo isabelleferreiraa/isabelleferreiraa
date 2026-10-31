@@ -334,6 +334,10 @@ O desenvolvimento envolve práticas de **Engenharia de Software, colaboração e
 
 <br>
 
+<img src="./programadora_rosa_ferrari.gif" width="90%" alt="GIF animado em pixel art de uma programadora em um quarto rosa com chuva e detalhes da Ferrari"/>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:712443,50:481529,100:2B0D1A&height=120&section=footer" width="100%" alt="Rodapé decorativo em tons de vinho"/>
 
 </div>
