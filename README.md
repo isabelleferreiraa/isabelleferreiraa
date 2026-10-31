@@ -242,10 +242,10 @@ O desenvolvimento envolve práticas de **Engenharia de Software, colaboração e
 
 **Status:** Em desenvolvimento.
 
-**Explore o projeto e minhas contribuições**
+**Conheça o projeto**
 
 [![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1TDSPH-26/portal-locais-acessiveis)
-[![Ver Contribuição](https://img.shields.io/badge/VER%20CONTRIBUI%C3%87%C3%83O-712443?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1TDSPH-26/portal-locais-acessiveis/pull/140)
+
 
 </details>
 
